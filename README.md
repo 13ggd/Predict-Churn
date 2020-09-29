@@ -14,7 +14,7 @@ Projeto realizado com o objetivo de prever o churn (abandono de clientes) de um 
 
 Eu recomendo baixar o [Anaconda](https://www.anaconda.com/) (Python distribution), que já tem todas as bibliotecas instaladas e o jupyter notebook. Ou usar o [Google Colab](https://colab.research.google.com/) que é só abrir o arquivo jupyter notebook nele.
 
-# Resumo do projeto
+# Resumo
 
 Descrevi graficamente alguns dados disponiveis, pois é importante ver com que tipo de cliente está sendo lidado, para que haja meios baseados no perfil majoritario deles para fazer com que os mesmos não saiam da instituição financeira
 
