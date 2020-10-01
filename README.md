@@ -1,4 +1,4 @@
-# Desafio Indicium
+# Desafio
 ## Gabriel Garcia Deitos
 
 Projeto realizado com o objetivo de prever o churn (abandono de clientes) de um banco de dados fictício de uma instituição financeira. utilizando o primeiro dataset chamado Abandono_clientes composto por 10000 linhas e 13 colunas de informação (features), sendo uma coluna “Exited” composta por dados binários: 1 se o cliente abandonou o banco, 0 se não, para prever o segundo dataset que possui 1000 linhas e 12 colunas e não possui a coluna “Exited”.
