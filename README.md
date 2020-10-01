@@ -18,6 +18,6 @@ Eu recomendo baixar o [Anaconda](https://www.anaconda.com/) (Python distribution
 
 Descrevi graficamente alguns dados disponiveis, pois é importante ver com que tipo de cliente está sendo lidado, para que haja meios baseados no perfil majoritario deles para fazer com que os mesmos não saiam da instituição financeira
 
-Previ o churn a partir do algoritmo de regressão logística pelo fato de apresentar menos falsos negativos no problema, o que ao meu ver é mais importante para ter tempo de contê-lo de alguma forma na empresa
+Previ o churn a partir do algoritmo de regressão logística pelo fato de apresentar menos falsos negativos no problema, o que ao meu ver é mais importante para ter tempo de conter os clientes de alguma forma na empresa
 
 Ao final, gerei um arquivo csv com duas colunas, rowNumber e predictedValues
